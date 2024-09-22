@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zuctql.github.io/sitemap.html.gz
+Sitemap: https://zuctql.github.io/app/sitemap.html.gz
+Sitemap: https://zuctql.github.io/assets/sitemap.html.gz
+Sitemap: https://zuctql.github.io/css/sitemap.html.gz
+Sitemap: https://zuctql.github.io/data/sitemap.html.gz
+Sitemap: https://zuctql.github.io/includes/sitemap.html.gz
+Sitemap: https://zuctql.github.io/item/sitemap.html.gz
+Sitemap: https://zuctql.github.io/src/sitemap.html.gz
